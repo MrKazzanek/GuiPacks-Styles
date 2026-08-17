@@ -1,0 +1,14 @@
+{
+  "packs": [
+    {
+      "name": "Vanilla Plus Dark",
+      "id": "vanilla_dark.zip",
+      "url": "https://raw.githubusercontent.com/TWOJ_USERNAME/GuiPacks-Styles/main/packs/vanilla_dark.zip"
+    },
+    {
+      "name": "Moja Nowa Paczka",
+      "id": "moja_paczka.zip",
+      "url": "https://raw.githubusercontent.com/TWOJ_USERNAME/GuiPacks-Styles/main/packs/moja_paczka.zip"
+    }
+  ]
+}
